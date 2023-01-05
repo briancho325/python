@@ -40,4 +40,4 @@ s.onkey(기본색,'1')
 도형.onclick(원그리기)
 지우개.onclick(지우기기능)
 정보.onclick(설명하기)
-s.mainloop
+s.mainloop()
